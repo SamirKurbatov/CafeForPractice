@@ -6,6 +6,7 @@
 ![image](https://user-images.githubusercontent.com/89282865/198238389-653928b0-3782-428d-be18-bf9212b85d28.png)
 ### Шаг 2
 После открытия архива мы видим файлы проекта, заходим в CafeForDevs.Server -> bin -> Release -> .net 6.0 -> CafeForDevs.Server.exe
+
 ![image](https://user-images.githubusercontent.com/89282865/198238815-291b6475-5159-4fa0-a94b-5b0c52fda508.png)
 ![image](https://user-images.githubusercontent.com/89282865/198241654-27524a13-2c00-4703-b272-372b5bb03d4a.png)
 ![image](https://user-images.githubusercontent.com/89282865/198241798-06500c56-7a3e-461f-a1f3-65cc92742812.png)
